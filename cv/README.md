@@ -1,1 +1,1 @@
-https://yurapredein.github.io/rsschool-cv/
+https://github.com/yurapredein/rsschool-cv/blob/gh-pages/cv/cv.md
